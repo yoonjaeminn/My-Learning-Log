@@ -1,5 +1,5 @@
 '26. 3. 21. 토  
-# Deleting and Replacing NaN entries:  
+# Handling_Missing_Values:  
 ### WHY: 
 SECOM 데이터는 방대한 columns를 포함하고 있어, 유의미한 분석을 위해 불필요한 열을 제거하고 데이터의 무결성을 확보하는 과정이 필수적. 상수열과 결측치가 많은 열을 제거하거나 대체하여 분석의 신뢰도를 향상
 ### kaggle의 "*UCI SECOM Dataset*" 활용
